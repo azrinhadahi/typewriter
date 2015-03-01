@@ -1,8 +1,11 @@
-Who is me?/n
+Who is me?
 
 Muhammad Azrin bin Mohd Hadahi
+
 Bachelor of Hons Information and Communication Technology
+
 Universiti Teknologi Petronas
+
 Malaysia
 
 Programming language:-
