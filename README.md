@@ -1,12 +1,12 @@
 Who is me?
 
 Muhammad Azrin bin Mohd Hadahi<br>
-Bachelor of Hons Information and Communication Technology
-Universiti Teknologi Petronas
-Malaysia
+Bachelor of Hons Information and Communication Technology<br>
+Universiti Teknologi Petronas<br>
+Malaysia<br>
 
-Programming language:-
-Java,C++,Python,Prolog
+Programming language:-<br>
+Java,C++,Python,Prolog<br>
 
-Operating System:-
-Ubuntu 14.0.04 LTS, Windows 8/7
+Operating System:-<br>
+Ubuntu 14.0.04 LTS, Windows 8/7<br>
